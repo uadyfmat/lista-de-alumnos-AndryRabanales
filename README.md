@@ -14,7 +14,7 @@ Considera la siguiente Estructura de Datos **Alumno** que contiene los datos:
 
 
 <p align="center">
-  <img src="assets/Alumno.drawio.png">
+  <img src="Screenshot 2023-08-27 122956.png">
 </p>
  
 Se creará una lista (simplemente enlazada) para mantener la información de los alumnos.  Cada nodo de la lista ***contiene*** en el dato una estructura Alumno y un apuntador al siguiente nodo.
